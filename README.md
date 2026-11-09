@@ -1,3 +1,6 @@
+<img width="1920" height="1080" alt="Screenshot (194)" src="https://github.com/user-attachments/assets/264bf1bd-fb45-4532-b057-5c102704f194" />
+<img width="1920" height="1080" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/79a6497d-833c-48b0-abef-7de23becb806" />
+<img width="1920" height="1080" alt="Screenshot (196)" src="https://github.com/user-attachments/assets/9b0664a2-3cbe-47d2-9ce6-7c2f8ad85750" />
 # Aplikasi Daftar Produk Toko (JavaFX)
 
 Aplikasi **Daftar Produk Toko** adalah aplikasi desktop berbasis **JavaFX 21** dan **Maven** yang digunakan untuk mencatat, menampilkan, mencari, dan melihat detail data produk toko (kategori **Makanan** dan **Minuman**) beserta lampiran gambar produk (`.png`, `.jpg`, `.jpeg`). Data disimpan secara *in-memory* (di dalam RAM) selama aplikasi berjalan.
